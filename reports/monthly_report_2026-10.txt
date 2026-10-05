@@ -1,0 +1,24 @@
+============================================================
+             SMARTSPEND MONTHLY REPORT
+============================================================
+Month: 2026-10
+Generated: 2026-10-04 09:56
+
+Total Spending: ₹4450.00
+Number of Transactions: 6
+
+CATEGORY BREAKDOWN
+----------------------------------------
+Shopping             ₹   2500.00 (56.2%)
+Food                 ₹   1600.00 (36.0%)
+Chicken Biriyani     ₹    300.00 (6.7%)
+Transport            ₹     50.00 (1.1%)
+
+UNUSUAL EXPENSES
+----------------------------------------
+#4 | Shopping | ₹2500.00 | 3.4x the monthly average
+
+SMART INSIGHTS
+----------------------------------------
+- Shopping accounts for more than 40% of your spending (₹2500.00).
+- 1 unusual expense(s) detected. Review them to ensure they were intentional.
